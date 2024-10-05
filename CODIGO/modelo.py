@@ -33,6 +33,21 @@ y_pred = modelo.predict(X_test)
 accuracy = accuracy_score(y_test, y_pred)
 print(f'Precisión: {accuracy * 100:.2f}%')
 
+# Obtener el intercepto (αa)
+intercept = modelo.intercept_
+
+# Obtener los coeficientes (θk)
+coeficientes = modelo.coef_
+
+# Mostrar el resultado
+print('Los valores para y = 1 son:')
+print(f"Intercepto (αa): {intercept}")
+print(f"Coeficientes (θk): {coeficientes}")
+
+
+
+
+'''
 # Mostrar la matriz de confusión
 conf_matrix = confusion_matrix(y_test, y_pred)
 print('Matriz de confusión:')
@@ -49,3 +64,4 @@ print('TN: True Negative')
 print('FP: False Positive')
 print('FN: False Negative')
 print('TP: True Positive')
+'''
