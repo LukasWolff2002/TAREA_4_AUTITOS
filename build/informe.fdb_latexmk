@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1728929323.8004 "c:/Users/A/Desktop/Uandes/8vo_semestre/Sistemas de transportes/TAREA_4_AUTITOS/informe.tex" "build/informe.pdf" "informe" 1728929325.13594 0
+["pdflatex"] 1728929717.48428 "c:/Users/A/Desktop/Uandes/8vo_semestre/Sistemas de transportes/TAREA_4_AUTITOS/informe.tex" "build/informe.pdf" "informe" 1728929718.64356 0
   "C:/Users/A/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1728319494 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/A/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1710856774 24221282 a5876e0c9e755de8e44ee96826d1c75a ""
   "C:/Users/A/Desktop/Programar/miketex/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -87,12 +87,14 @@
   "C:/Users/A/Desktop/Programar/miketex/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/A/Desktop/Programar/miketex/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "anal.tex" 1728929165 362 eb752368616e71aea5af18fdfa753fc1 ""
-  "build/anal.aux" 1728929324 899 0546b8244e23c36f8fafd4804e537c70 "pdflatex"
-  "build/informe.aux" 1728929324 361 221c92d7649bdff5effac26db889410d "pdflatex"
-  "build/informe.out" 1728929324 485 b2ccd0bf7f75fd9fd166167bcf772f3d "pdflatex"
-  "build/resul.aux" 1728929324 1352 951aa1ab33f11f90cf1085327c76ec2e "pdflatex"
-  "c:/Users/A/Desktop/Uandes/8vo_semestre/Sistemas de transportes/TAREA_4_AUTITOS/informe.tex" 1728929322 1919 64c491dc609e33f3f6d7e816fb058e37 ""
-  "informe.tex" 1728929322 1919 64c491dc609e33f3f6d7e816fb058e37 ""
+  "build/anal.aux" 1728929718 899 ff9e55e17802f1418ef380a5fd620af8 "pdflatex"
+  "build/informe.aux" 1728929718 380 1bb415d4759cc0468058082b571554f3 "pdflatex"
+  "build/informe.out" 1728929718 591 efb3accd0b7881b8192264c7d3a87787 "pdflatex"
+  "build/intro.aux" 1728929718 787 49eee86f75d58db7a92810c5df724d54 "pdflatex"
+  "build/resul.aux" 1728929718 1352 01581733cb44e4940f997d3c5252e5f6 "pdflatex"
+  "c:/Users/A/Desktop/Uandes/8vo_semestre/Sistemas de transportes/TAREA_4_AUTITOS/informe.tex" 1728929694 1936 6cbb04f00748489d2cc76324061f34e1 ""
+  "informe.tex" 1728929694 1936 6cbb04f00748489d2cc76324061f34e1 ""
+  "intro.tex" 1728929715 23 da48b590e301069ded14b96f40a31033 ""
   "resul.tex" 1728928037 1910 e762ef31419c98be4a86a12426a52536 ""
   (generated)
   "build/anal.aux"
@@ -100,5 +102,6 @@
   "build/informe.log"
   "build/informe.out"
   "build/informe.pdf"
+  "build/intro.aux"
   "build/resul.aux"
   (rewritten before read)

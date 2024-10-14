@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.19)  14 OCT 2024 15:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.19)  14 OCT 2024 15:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -306,7 +306,7 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 ) (c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\informe.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
- (c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\resul.aux) (c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\anal.aux))
+ (c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\intro.aux) (c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\resul.aux) (c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\anal.aux))
 \openout1 = `informe.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -410,6 +410,24 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 ) [1
 
 {C:/Users/A/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+\openout2 = `intro.aux'.
+
+ (intro.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.58 \include{intro}
+                     [1
+
+]
 \openout2 = `resul.aux'.
 
  (resul.tex
@@ -427,23 +445,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
+[2
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.59 \include{resul}
-                     [1
+
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.59 \include{resul}
+l.60 \include{resul}
                     
 pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.59 \include{resul}
+l.60 \include{resul}
                     ]
 \openout2 = `anal.aux'.
 
@@ -455,33 +470,33 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2
+[3
 
 
 
 ] (c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\informe.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
- (c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\resul.aux) (c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\anal.aux))
+ (c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\intro.aux) (c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\resul.aux) (c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\anal.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `informe.out' has not changed.
-(rerunfilecheck)             Checksum: B2CCD0BF7F75FD9FD166167BCF772F3D;485.
+(rerunfilecheck)             Checksum: EFB3ACCD0B7881B8192264C7D3A87787;591.
  ) 
 Here is how much of TeX's memory you used:
- 14767 strings out of 474486
- 234777 string characters out of 5747519
+ 14795 strings out of 474486
+ 235713 string characters out of 5747519
  1936542 words of memory out of 5000000
- 36829 multiletter control sequences out of 15000+600000
+ 36848 multiletter control sequences out of 15000+600000
  564098 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1085b,510s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\informe.pdf" (3 pages, 86876 bytes).
+Output written on "c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\informe.pdf" (4 pages, 88125 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
- 18465 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 84 PDF objects out of 1000 (max. 8388607)
+ 13 named destinations out of 1000 (max. 500000)
+ 18473 words of extra memory for PDF output out of 20736 (max. 10000000)
 
