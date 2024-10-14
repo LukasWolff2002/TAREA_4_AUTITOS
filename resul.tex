@@ -1,0 +1,51 @@
+\section{Resultados y Discusiones}
+
+\subsection{Modelo Logit}
+
+En primer lugar, el modelo logit utilizado tiene la siguiente estructura.
+
+\begin{equation}
+    V_a = \alpha_a + \theta_d X_d + \theta_i X_i,
+\end{equation}
+
+donde:
+\begin{itemize}
+    \item $\alpha_a$ es la constante modal del transporte privado,
+    \item $\theta_d$ es el coeficiente de sensibilidad de la utilidad del auto respecto a la distancia,
+    \item $X_d$ es la distancia de viaje,
+    \item $\theta_i$ es el coeficiente de sensibilidad de la utilidad del auto respecto al ingreso,
+    \item $X_i$ es el ingreso del viajero o pasajero.
+    \item El valor obtenido para $V_a$ se compara a una utilidad sistemática definida como base arbitraria para la utilidad del transporte público, $V_b := 0$, de manera que como consecuencia lógica:
+    \begin{equation}
+        P_a = \frac{e^{V_a}}{1+e^{V_a}} \quad y \quad P_b = \frac{1}{1+e^{V_a}}.
+    \end{equation} 
+\end{itemize}
+    
+Luego, utilizando la librería \textit{scikit-learn} de \textit{Python}, se realizó la regresión lineal para obtener los parámetros del modelo logit.
+
+\begin{table}[H]
+    \centering
+    \caption{Tabla de ejemplo 3x3}
+    \begin{tabular}{|c|c|}
+    \hline
+    Parámetro & Valor  \\ \hline
+    $\alpha_{a}$    & 1.865     \\ \hline
+    $\theta_{d}$    & -0.277     \\ \hline
+    $\theta_{i}$    & 0.00135     \\ \hline
+    $V_{a}$    & 1.612     \\ \hline
+    \end{tabular}
+\end{table}
+
+Los valores anteriores obtuvieron una precisión del 89.47\% con las siguientes probabilidades:
+
+\begin{table}[H]
+    \centering
+    \caption{Tabla de ejemplo 3x3}
+    \begin{tabular}{|c|c|}
+    \hline
+    Probabilidad & Valor  \\ \hline
+    $P_{a}$    & 0.833    \\ \hline
+    $P_{b}$    & 0.167     \\ \hline
+    \end{tabular}
+\end{table}
+
