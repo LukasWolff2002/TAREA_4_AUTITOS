@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1728928347.8147 "/Users/lukaswolff/Desktop/24_20/AUTITOS/TAREAS/TAREA_4_AUTITOS/informe.tex" "informe.pdf" "informe" 1728928348.42794 0
-  "/Users/lukaswolff/Desktop/24_20/AUTITOS/TAREAS/TAREA_4_AUTITOS/informe.tex" 1728928346.92703 1840 0cb675240b31a6873b6a5cfddab2efe9 ""
+["pdflatex"] 1728938751.24344 "/Users/lukaswolff/Desktop/24_20/AUTITOS/TAREAS/TAREA_4_AUTITOS/informe.tex" "informe.pdf" "informe" 1728938751.82678 0
+  "/Users/lukaswolff/Desktop/24_20/AUTITOS/TAREAS/TAREA_4_AUTITOS/informe.tex" 1728936421.36665 1831 88b541eadf8fa9b6afa30ad4ee89c73e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -88,13 +88,13 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1710685657.15962 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1710685568 8221436 9feefa88f893c4604437a3bcd513880c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "anal.aux" 1728928348.37852 899 0546b8244e23c36f8fafd4804e537c70 "pdflatex"
-  "anal.tex" 1728928346.92675 358 eb752368616e71aea5af18fdfa753fc1 ""
-  "informe.aux" 1728928348.37873 361 221c92d7649bdff5effac26db889410d "pdflatex"
-  "informe.out" 1728928348.38019 485 b2ccd0bf7f75fd9fd166167bcf772f3d "pdflatex"
-  "informe.tex" 1728928346.92703 1840 0cb675240b31a6873b6a5cfddab2efe9 ""
-  "resul.aux" 1728928348.37537 1352 951aa1ab33f11f90cf1085327c76ec2e "pdflatex"
-  "resul.tex" 1728928311.97905 1857 e762ef31419c98be4a86a12426a52536 ""
+  "anal.aux" 1728938751.77879 1367 cb1c69eed835065d653eeea2b5309398 "pdflatex"
+  "anal.tex" 1728938751.05856 2351 e2df0b0186fb27172fefa71e8047e80c ""
+  "informe.aux" 1728938751.77902 361 acc179bcb8f3a4b55dcc437b6d4cb138 "pdflatex"
+  "informe.out" 1728938751.78045 925 30e372cfc829644a3f8d7cdf72a217a0 "pdflatex"
+  "informe.tex" 1728936421.36665 1831 88b541eadf8fa9b6afa30ad4ee89c73e ""
+  "resul.aux" 1728938751.77187 1571 43224a73c30a34151164f72e249d427c "pdflatex"
+  "resul.tex" 1728937260.96261 2140 3146ac47ac35ae028fa32647a79d3414 ""
   (generated)
   "anal.aux"
   "informe.aux"

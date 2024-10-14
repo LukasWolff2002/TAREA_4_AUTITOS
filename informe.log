@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.17)  14 OCT 2024 14:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.3.17)  14 OCT 2024 17:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -301,7 +301,11 @@ File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
 ) (./informe.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
- (./resul.aux) (./anal.aux))
+ (./resul.aux
+
+LaTeX Warning: Label `tab:param' multiply defined.
+
+) (./anal.aux))
 \openout1 = `informe.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -414,7 +418,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 7.
-)
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -426,23 +430,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.59 \include{resul}
-                     [1
+l.66 
+      [1
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.59 \include{resul}
-                    
+l.66 
+     
 pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.59 \include{resul}
-                    ]
-\openout2 = `anal.aux'.
-
- (./anal.tex)
+l.66 
+     ])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -451,6 +452,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2
+pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.59 \include{resul}
+                    ]
+\openout2 = `anal.aux'.
+
+ (./anal.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--23
+
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3
 
 
 
@@ -462,22 +494,26 @@ LaTeX Info: Redefining \% on input line 11.
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package rerunfilecheck Info: File `informe.out' has not changed.
-(rerunfilecheck)             Checksum: B2CCD0BF7F75FD9FD166167BCF772F3D;485.
+(rerunfilecheck)             Checksum: 30E372CFC829644A3F8D7CDF72A217A0;925.
  ) 
 Here is how much of TeX's memory you used:
- 14711 strings out of 474116
- 231116 string characters out of 5743682
- 1937187 words of memory out of 5000000
- 36856 multiletter control sequences out of 15000+600000
- 564098 words of font info for 75 fonts, out of 8000000 for 9000
+ 14729 strings out of 474116
+ 231311 string characters out of 5743682
+ 1938187 words of memory out of 5000000
+ 36860 multiletter control sequences out of 15000+600000
+ 564294 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1067b,510s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on informe.pdf (3 pages, 79743 bytes).
+Output written on informe.pdf (4 pages, 82632 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 18465 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 99 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
+ 18497 words of extra memory for PDF output out of 20736 (max. 10000000)
 
