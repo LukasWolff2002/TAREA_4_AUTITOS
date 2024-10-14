@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1728938751.24344 "/Users/lukaswolff/Desktop/24_20/AUTITOS/TAREAS/TAREA_4_AUTITOS/informe.tex" "informe.pdf" "informe" 1728938751.82678 0
+["pdflatex"] 1728939682.46032 "/Users/lukaswolff/Desktop/24_20/AUTITOS/TAREAS/TAREA_4_AUTITOS/informe.tex" "informe.pdf" "informe" 1728939683.06911 0
   "/Users/lukaswolff/Desktop/24_20/AUTITOS/TAREAS/TAREA_4_AUTITOS/informe.tex" 1728936421.36665 1831 88b541eadf8fa9b6afa30ad4ee89c73e ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -88,12 +88,12 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1710685657.15962 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1710685568 8221436 9feefa88f893c4604437a3bcd513880c ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "anal.aux" 1728938751.77879 1367 cb1c69eed835065d653eeea2b5309398 "pdflatex"
-  "anal.tex" 1728938751.05856 2351 e2df0b0186fb27172fefa71e8047e80c ""
-  "informe.aux" 1728938751.77902 361 acc179bcb8f3a4b55dcc437b6d4cb138 "pdflatex"
-  "informe.out" 1728938751.78045 925 30e372cfc829644a3f8d7cdf72a217a0 "pdflatex"
+  "anal.aux" 1728939683.02049 1367 4e866670b4cbc15b76abe1575636a701 "pdflatex"
+  "anal.tex" 1728939682.27761 3203 0abf4bf3e3dfa5a1dee0304addb161a0 ""
+  "informe.aux" 1728939683.02075 361 02dde1c3fecc1b2ca4c38830ff27bad7 "pdflatex"
+  "informe.out" 1728939683.02222 925 30e372cfc829644a3f8d7cdf72a217a0 "pdflatex"
   "informe.tex" 1728936421.36665 1831 88b541eadf8fa9b6afa30ad4ee89c73e ""
-  "resul.aux" 1728938751.77187 1571 43224a73c30a34151164f72e249d427c "pdflatex"
+  "resul.aux" 1728939683.0115 1571 43224a73c30a34151164f72e249d427c "pdflatex"
   "resul.tex" 1728937260.96261 2140 3146ac47ac35ae028fa32647a79d3414 ""
   (generated)
   "anal.aux"
