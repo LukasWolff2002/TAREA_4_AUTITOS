@@ -149,6 +149,9 @@ INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUT
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\anal.aux
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\anal.aux
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\anal.aux
+INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\conclu.aux
+INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\conclu.aux
+INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\conclu.aux
 OUTPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\informe.aux
 INPUT C:\Users\A\Desktop\Programar\miketex\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\A\Desktop\Programar\miketex\tex\context\base\mkii\supp-pdf.mkii
@@ -203,6 +206,12 @@ OUTPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AU
 INPUT .\anal.tex
 INPUT .\anal.tex
 INPUT anal.tex
+INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\conclu.tex
+INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\conclu.tex
+OUTPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\conclu.aux
+INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\conclu.tex
+INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\conclu.tex
+INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\conclu.tex
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\informe.aux
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\intro.aux
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\intro.aux
@@ -213,6 +222,9 @@ INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUT
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\anal.aux
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\anal.aux
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\anal.aux
+INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\conclu.aux
+INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\conclu.aux
+INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\conclu.aux
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\informe.out
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\informe.out
 INPUT C:\Users\A\Desktop\Programar\miketex\fonts\type1\public\amsfonts\cm\cmbx12.pfb
