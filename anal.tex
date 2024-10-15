@@ -1,10 +1,16 @@
 \section{Análisis}
 
-\subsection{Pregunta 1}
+Los coeficientes obtenidos muestran que la utilidad del transporte privado disminuye a medida que aumenta la distancia del viaje ($\theta_d = -0.277$). Por otro lado, el coeficiente asociado al ingreso ($\theta_i = 0.00135$) indica que, aunque el impacto es pequeño, las personas con ingresos más altos tienden a preferir el transporte privado sobre el público.
+
+Además, la probabilidad de elegir el transporte privado ($P_a = 0.833$) es mayor que la del transporte público ($P_b = 0.167$). Esto indica una preferencia por el uso del auto en las condiciones estudiadas, lo cual puede estar relacionado tanto con factores económicos como de conveniencia.
+
+Por último, la constante modal positiva para el transporte privado ($\alpha_a = 1.865$) indica una inclinación inicial hacia el uso del auto. Esto podría deberse a percepciones de comodidad o status asociadas al transporte privado, teniendo relación con la utilidad aleatoria.
+
+En términos de precisión, el modelo logit logró un 89.47\%, lo cual indica un buen ajuste para predecir las elecciones de transporte de los individuos bajo estas circunstancias.
+
+\subsection{Preguntas}
 
 La partición modal observada en este par OD es un 83.3\% de personas viajan en transporte privado, mientras que el 16.7\% restante lo hace en transporte público. Esto se debe a que la utilidad del transporte privado respecto al ingreso es mayor ($\theta_{i}$), lo que se puede observar en la Tabla \ref{tab:param}.
-
-\subsection{Pregunta 2}
 
 Que el valor de $\theta_{d}$ sea negativo implica que la utilidad del transporte privado respecto a la distancia disminuye, lo que se traduce en que a medida que la distancia de viaje aumenta, la probabilidad de elegir transporte privado disminuye, es decir, se castiga la distancia.
 Por otro lado, el valor de $\theta_{i}$ es positivo, lo que implica que la utilidad del transporte privado respecto al ingreso aumenta, lo que se traduce en que a medida que el ingreso del viajero aumenta, la probabilidad de elegir transporte privado también aumenta.
@@ -13,19 +19,14 @@ El valor $\alpha$ es la constante modal del transporte privado, es decir, es el 
 \\ \\
 Para que los signos de los coeficientes cambien, se espera por ejemplo que un viaje sea mas eficiente mientras mayor sea la distanica, o al contrario, se aplique un desincentivo al uso del transporte privado mientras mayor sea el ingreso del viajero.
 
-\subsection{Pregunta 3}
-
-
 
 Suponiendo que el ingreso sube un 10\% para todos los viajeros, significa que el $X_i$ incrementa a 667.548. De esta forma, $V_a$ resulta en 1.782, lo que implica que la probabilidad de elegir transporte privado aumenta a 85.5\%, mientras que la probabilidad de elegir transporte público disminuye a 14.5\%.
 \\ \\
 De forma contraria, si el ingreso aumenta en un 12\% para la mitad de menores ingresos, mientras que aumenta un 8\% para la mitad de mayores ingresos se obtiene un $X_i$ igual a 672.642. De esta forma, $V_a$ resulta en 1.789, lo que implica que la probabilidad de elegir transporte privado aumenta a 85.6\%, mientras que la probabilidad de elegir transporte público disminuye a 14.4\%.
 
-\subsection{Pregunta 4}
 
 Los resultados mencionados anteriromente si hacen sentido matematicamente ya que la variacion del ingreso promedio se espera que no varie en gran medida entre ambos casos. Ahora, segun los modos de transporte, esta teoria no hace gran sentido ya que se deberia esperar un menor aumento en la eleccion de modos para el segundo caso, ya que se espera que un 12\% de aumento no sea capaz de contrarestar la baja del 10\% al 8\%.
 
-\subsection{Pregunta 5}
 
 Una manera de hacer mas preciso el modelo logit es involucrar una tercera variable, por ejemplo, la edad de los viajeros, de esta forma, se podría obtener un modelo logit multinomial, que permita obtener una mayor precisión en la elección de transporte. O tambien hacer una toma de datos proporcional a las probabilidades de los distintos modos segun encuestas anteriores, de esta manera, se espera eliminar el sesgo.
 
