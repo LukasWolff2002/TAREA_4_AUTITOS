@@ -2,7 +2,7 @@
 
 \subsection{Modelo Logit}
 
-En primer lugar, el modelo logit utilizado tiene la siguiente estructura.
+En primer lugar, el modelo logit utilizado tiene la siguiente estructura:
 
 \begin{equation}
     V_a = \alpha_a + \theta_d X_d + \theta_i X_i,
@@ -15,12 +15,14 @@ donde:
     \item $X_d$ es la distancia de viaje,
     \item $\theta_i$ es el coeficiente de sensibilidad de la utilidad del auto respecto al ingreso,
     \item $X_i$ es el ingreso del viajero o pasajero.
-    \item El valor obtenido para $V_a$ se compara a una utilidad sistemática definida como base arbitraria para la utilidad del transporte público, $V_b := 0$, de manera que como consecuencia lógica:
-    \begin{equation}
-        P_a = \frac{e^{V_a}}{1+e^{V_a}} \quad y \quad P_b = \frac{1}{1+e^{V_a}}.
-    \end{equation} 
 \end{itemize}
-    
+
+El valor obtenido para \( V_a \) se compara con una utilidad sistemática definida como base arbitraria para la utilidad del transporte público, \( V_b := 0 \). Como consecuencia lógica, se obtienen las siguientes probabilidades de elección:
+
+\begin{equation}
+    P_a = \frac{e^{V_a}}{1+e^{V_a}} \quad \text{y} \quad P_b = \frac{1}{1+e^{V_a}}.
+\end{equation} 
+
 Luego, utilizando la librería \textit{scikit-learn} de \textit{Python}, se realizó la regresión lineal para obtener los parámetros del modelo logit.
 
 \begin{table}[H]
@@ -46,7 +48,7 @@ Luego, utilizando la librería \textit{scikit-learn} de \textit{Python}, se real
     $X_i$    & 606.8623     \\ \hline
     $X_{d}$    & 3.5522     \\ \hline
     \end{tabular}
-    \label{tab:param}
+    \label{tab:param_transporte}
 \end{table}
 
 \begin{table}[H]
@@ -60,4 +62,3 @@ Luego, utilizando la librería \textit{scikit-learn} de \textit{Python}, se real
     \end{tabular}
     \label{tab:prob}
 \end{table}
-
