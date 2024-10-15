@@ -206,12 +206,12 @@ OUTPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AU
 INPUT .\anal.tex
 INPUT .\anal.tex
 INPUT anal.tex
-INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\conclu.tex
-INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\conclu.tex
+INPUT .\conclu.tex
+INPUT .\conclu.tex
 OUTPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\conclu.aux
-INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\conclu.tex
-INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\conclu.tex
-INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\conclu.tex
+INPUT .\conclu.tex
+INPUT .\conclu.tex
+INPUT conclu.tex
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\informe.aux
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\intro.aux
 INPUT c:\Users\A\Desktop\Uandes\8vo_semestre\Sistemas de transportes\TAREA_4_AUTITOS\build\intro.aux
